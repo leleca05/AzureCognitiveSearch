@@ -3,7 +3,7 @@
 Este projeto tem como objetivo demonstrar a utilização prática da ferramenta Azure Cognitive Search combinada com AI, aplicando-a para indexação e consulta de dados. A seguir, apresento um passo a passo detalhado de como configurar e utilizar a ferramenta AI Search, além de uma análise pessoal sobre o desempenho e funcionalidades da plataforma.
 
 # Passo a Passo para Configuração de Pesquisa no Azure Cognitive Search:
--Criar um Recurso de AI Search Service: O primeiro passo é criar o serviço do Azure Cognitive Search. Isso fornecerá a infraestrutura necessária para armazenar e indexar seus dados de maneira eficiente, tornando-os facilmente acessíveis para consultas e buscas.
+* Criar um Recurso de AI Search Service: O primeiro passo é criar o serviço do Azure Cognitive Search. Isso fornecerá a infraestrutura necessária para armazenar e indexar seus dados de maneira eficiente, tornando-os facilmente acessíveis para consultas e buscas.
 
 -Criar um Recurso de Azure AI Service: Para integrar capacidades de inteligência artificial ao serviço de busca, é necessário configurar um recurso adicional de Azure AI Service. Isso permitirá a análise semântica dos dados, melhorando a relevância das respostas nas consultas.
 
